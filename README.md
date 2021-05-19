@@ -4,7 +4,8 @@
 
 
 ## What is this?
-    This is a compilation of four assignments that were created in my 363 class at IUPUI taken during Spring 2021.  
+    This is a compilation of four assignments that were created in my 363 class at IUPUI 
+    taken during Spring 2021.  
 
 ## What were the assignments?
     The first assignment was an Array Class.  
