@@ -1,0 +1,29 @@
+//==============================================================================
+/**
+ * @file       assignment2.mpc
+ *
+ * IMPORTANT NOTE: Majority of this file was included by the professor.
+ * Files may have been added based on design changes.
+ */
+ //==============================================================================
+
+project (assignment2) {
+  exename = assignment2
+  install = .
+ 
+  specific (make, gnuace) {
+    compile_flags += -std=c++11
+  }
+
+  Source_Files {
+    driver.cpp
+  }
+
+  Template_Files {
+	Array_Base.cpp
+	Array.cpp
+  Fixed_Array.cpp
+  Stack.cpp
+	Queue.cpp
+  }
+}

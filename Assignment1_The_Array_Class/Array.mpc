@@ -1,0 +1,18 @@
+// This mpc file was created by the professor and was probably not altered.
+
+project (Array) {
+  exename = Array
+  install = .
+
+  specific(make) {
+    compile_flags += -std=c++11
+  }
+
+  Source_Files {
+    Array.cpp
+		
+    // Uncomment the line below when you have created your driver 
+    // source file.
+    driver.cpp
+  }
+}
