@@ -1,5 +1,7 @@
 # Principles of Software Design (IUPUI-CSCI-36300)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4dc5c6bd8b5146bfa0e500fc2aa4f2be)](https://app.codacy.com/gh/MujyKun/CS363?utm_source=github.com&utm_medium=referral&utm_content=MujyKun/CS363&utm_campaign=Badge_Grade_Settings)
+
 ## What is this?
     This is a compilation of four assignments that were created in my 363 class at IUPUI.  
 
