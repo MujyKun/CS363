@@ -2,6 +2,9 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/4dc5c6bd8b5146bfa0e500fc2aa4f2be)](https://app.codacy.com/gh/MujyKun/CS363?utm_source=github.com&utm_medium=referral&utm_content=MujyKun/CS363&utm_campaign=Badge_Grade_Settings)
 
+| :exclamation:  It has come to my attention that a lot of people in CS363 reference this repository. I will not be responsible for any plagiarism that you do and I would never recommend it either. This repository is kept public to showcase my progress throughout my years and may also be used for educational purposes. I initially made these public with permission from the professor during a conversation in their office hours. :exclamation:  |
+|-----------------------------------------|
+
 
 ## What is this?
     This is a compilation of four assignments that were created in my 363 class at IUPUI 
